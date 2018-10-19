@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="ibxm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/slick-examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../WhatJavaNeeds/lib/tinylinepp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+      <root url="file://$PROJECT_DIR$/../WhatJavaNeeds" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
