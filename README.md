@@ -1,2 +1,2 @@
 # BrinyFoam
-Underwater arcade with strategy elements
+Аркада с элементами стратегии | Arcade with strategy elements
